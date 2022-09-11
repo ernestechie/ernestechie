@@ -2,9 +2,9 @@
 
 - 👋 Hello, I’m Isaiah Ernest. Frontend Developer ⚛️
 - 🤍 Learning & advancing my frontend skills while creating beautiful, useful applications(@ernestechie)
-- 🌱 Currently Learning React & Firebase
+- 🌱 Currently Building with React & Firebase
 - ✅ Open for collaborations 👍
-- 📧 You can contact me via: officialisaiahovie@gmail.com
+- 📧 Contact me: officialisaiahovie@gmail.com
 
 [![Isaiah Ernest GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestechie&show_icons=true&theme=dracula)](https://github.com/ernestechie/github-readme-stats)
 
